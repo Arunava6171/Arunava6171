@@ -17,7 +17,6 @@
 ### 🚀 About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 Recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy
-- 🌱 I’m exploring **Cloud platforms (AWS/GCP)** and **CI/CD tools (GitHub Actions, Docker)**
 - 💬 Ask me about **Java, SQL, OOPs, DBMS, Operating Systems**
 - 🏆 Strong team player with excellent **communication** and **problem-solving** skills
 - 🧠 Always curious to learn and grow in a collaborative tech environment
@@ -26,10 +25,10 @@
 
 ### 🧠 Tech Stack
 **Languages:**  
-`Java` | `C` | `Python` | `SQL`  
+`Java` | `C` | `SQL`  
 
 **Tools & Platforms:**  
-`Git` | `Jupyter Notebook` | `PyCharm` | `GitHub`  
+`Streamlitt` | `Jupyter Notebook` | `PyCharm` | `GitHub`  
 
 **Libraries & Frameworks:**  
 `Scikit-learn` | `Pandas` | `NumPy`  
@@ -51,16 +50,8 @@
 
 ---
 
-### 🌱 Learning Goals (2024)
-- ☁️ Hands-on with **Cloud platforms (AWS Free Tier, GCP)**
-- ⚙️ Learn **DevOps tools** like Jenkins, Docker, and Kubernetes
-- 🌐 Build **Full-Stack Projects** using React and Node.js
-- 📜 Get certified in **Cloud & Software Development Fundamentals**
-
----
-
 ### 📫 Connect With Me
-- 📍 Kolkata, India  
+- 📍 West Bengal, India  
 - 📧 arunavabi08@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arunava-biswas972/)  
 - 💻 [GitHub](https://github.com/Arunava6171)
