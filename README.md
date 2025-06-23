@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Arunava Biswas</h1>
-<h3 align="center">A passionate Software Engineer | 2024 Graduate | Java • SQL • ML • Cloud Enthusiast</h3>
+<h3 align="center">A passionate Software Engineer | 2024 Graduate | Java • SQL • C • DBMS • OOPs
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
