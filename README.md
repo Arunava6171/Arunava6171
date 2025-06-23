@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Arunava Biswas</h1>
 <h3 align="center">A passionate Software Engineer | 2024 Graduate | Java • SQL • C • DBMS • OOPs
 
