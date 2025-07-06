@@ -7,12 +7,6 @@
 
 ---
 
-🎓 **B.Tech in Computer Science and Engineering**  
-📍 Meghnad Saha Institute of Technology | Batch of 2024  
-🔍 I’m currently looking for full-time opportunities as a **Software/DevOps Engineer**
-
----
-
 ### 🚀 About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 Recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy
