@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Technical Skills
 **Languages:**  
 `Java` | `C` | `SQL`  
 
