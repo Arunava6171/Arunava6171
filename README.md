@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunava Biswas</h1>
+<h1 align="center">Arunava Biswas</h1>
 <h3 align="center">Aspiring Software Engineer | 2024 Graduate | Java • SQL • C • DBMS • OOPs
 
 <p align="center">
