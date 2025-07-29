@@ -1,4 +1,4 @@
-<h1 align="center">Arunava Biswas</h1>
+<h1 align="center">My Name is Arunava Biswas</h1>
 <h3 align="center">Aspiring Software Engineer | 2024 Graduate | Java • Python • SQL • Machine Learning • Web Development
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ---
 
-### Projects
+### My Projects
 
 #### Spam Mail Prediction System  
 > Final Year Project | Machine Learning  
