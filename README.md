@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Arunava Biswas</h1>
-<h3 align="center">I am an Aspiring Software Engineer | 2024 Graduate | Java • Python • Web Development
+<h3 align="center">I am an Aspiring Software Engineer | 2024 Graduate | Java • Python • SQL • Machine Learning • Web Development
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
