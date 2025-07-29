@@ -25,7 +25,6 @@
 - 🔗 [Resume](https://drive.google.com/file/d/1X19br1-Gth6p24-V6xsluxPR7T3RjH7i/view?usp=sharing)
 
 
----
 
 
 
