@@ -22,7 +22,7 @@
 - 📧 arunavabi08@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arunava-biswas972/)  
 - 💻 [GitHub](https://github.com/Arunava6171)  
-- 🔗 [Resume](https://drive.google.com/file/d/1X19br1-Gth6p24-V6xsluxPR7T3RjH7i/view?usp=sharing)
+- 🔗 [Resume](https://drive.google.com/file/d/13pbnipzgMtFGRdr854UHestsw587dyHo/view?usp=sharing)
 
 
 
