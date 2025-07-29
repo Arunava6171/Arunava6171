@@ -24,17 +24,10 @@
 - 💻 [GitHub](https://github.com/Arunava6171)  
 - 🔗 [Resume](https://drive.google.com/file/d/1X19br1-Gth6p24-V6xsluxPR7T3RjH7i/view?usp=sharing)
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunava6171&show_icons=true&theme=radical" alt="Arunava's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunava6171&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
-### Fun Fact
-> I love **Cricket** and **Music**, and I enjoy solving real-world problems with code!
+
+
+
 
