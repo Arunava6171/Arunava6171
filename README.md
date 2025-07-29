@@ -1,5 +1,5 @@
 <h1 align="center">Arunava Biswas</h1>
-<h3 align="center">Aspiring Software Engineer | 2024 Graduate | Java • SQL • C • DBMS • OOPs
+<h3 align="center">Aspiring Software Engineer | 2024 Graduate | Java • Python • SQL • Machine Learning • Web Development
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,8 +10,8 @@
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 Recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy
-- 💬 Ask me about **Java, SQL, OOPs, DBMS, Operating Systems**
-- 🏆 Strong team player with excellent **communication** and **problem-solving** skills
+- 💬 Ask me about **DBMS, OS, CN, OOPs**
+- 🏆 Strong team player with excellent communication and problem-solving skills
 - 🧠 Always curious to learn and grow in a collaborative tech environment
 
 ---
