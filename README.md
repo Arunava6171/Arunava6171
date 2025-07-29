@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 Recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy
 - 💬 Ask me about **Java, SQL, OOPs, DBMS, Operating Systems**
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Technical Skills
+### Technical Skills
 **Languages:**  
 `Java` | `C` | `SQL`  
 
@@ -31,9 +31,9 @@
 
 ---
 
-### 📂 Projects
+### Projects
 
-#### 📌 Spam Mail Prediction System  
+#### Spam Mail Prediction System  
 > Final Year Project | Machine Learning  
 - Used the **SMS Spam Collection dataset**
 - Applied data preprocessing: stop word removal, lemmatization
@@ -43,7 +43,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 - 📍 West Bengal, India  
 - 📧 arunavabi08@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arunava-biswas972/)  
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arunava6171&show_icons=true&theme=radical" alt="Arunava's GitHub stats" />
@@ -60,6 +60,6 @@
 
 ---
 
-### 🎯 Fun Fact
+### Fun Fact
 > I love **Cricket** and **Music**, and I enjoy solving real-world problems with code!
 
