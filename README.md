@@ -9,10 +9,10 @@
 
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
-- 📈 Recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy
-- 💬 Ask me about **DBMS, OS, CN, OOPs**
-- 🏆 Strong team player with excellent communication and problem-solving skills
-- 🧠 Always curious to learn and grow in a collaborative tech environment
+- 📈 I have recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy 
+- 💬 Ask me **DBMS, OS, CN, OOPs**
+- 🏆 I like to provide solutions with good problem solving skills
+- 🧠 I'm always curious to learn and grow in a collaborative environment
 
 ---
 
