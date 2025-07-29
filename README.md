@@ -17,18 +17,6 @@
 ---
 
 
-### My Projects
-
-#### Spam Mail Prediction System  
-> Final Year Project | Machine Learning  
-- Used the **SMS Spam Collection dataset**
-- Applied data preprocessing: stop word removal, lemmatization
-- Used **TF-IDF Vectorization + Logistic Regression**
-- Achieved **95% accuracy** on validation set
-- Built a real-time text classification system
-
----
-
 ### Connect With Me
 - 📍 West Bengal, India  
 - 📧 arunavabi08@gmail.com  
