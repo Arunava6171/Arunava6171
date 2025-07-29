@@ -16,20 +16,6 @@
 
 ---
 
-### Technical Skills
-**Languages:**  
-`Java` | `C` | `SQL`  
-
-**Tools & Platforms:**  
-`Streamlitt` | `Jupyter Notebook` | `PyCharm` | `GitHub`  
-
-**Libraries & Frameworks:**  
-`Scikit-learn` | `Pandas` | `NumPy`  
-
-**Core Subjects:**  
-`Object-Oriented Programming` | `DBMS` | `Operating Systems` | `Computer Networks`
-
----
 
 ### My Projects
 
