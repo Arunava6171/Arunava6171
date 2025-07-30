@@ -1,4 +1,10 @@
-<h1 align="center">Welcome, I am Arunava Biswas</h1>
+<h1 align="center">Arunava Biswas</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
 
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
