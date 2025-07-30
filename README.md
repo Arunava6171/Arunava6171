@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Arunava Biswas</h1>
+<h1 align="center">Welcome to my Bio, I am Arunava Biswas</h1>
 <h3 align="center">I am an Aspiring Software Engineer | 2024 Graduate | Java • Python • SQL • Machine Learning • Web Development
 
 <p align="center">
