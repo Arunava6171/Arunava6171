@@ -1,11 +1,3 @@
-<h1 align="center">Arunava Biswas</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 I have recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy 
