@@ -1,11 +1,4 @@
-<h1 align="center">Welcome to my Bio, my name is Arunava Biswas</h1>
-<h3 align="center">Acively looking for oppurtunities | BTech CSE 2024 | Java • Python • SQL • Machine Learning • Web Development
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunava6171&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
+<h1 align="center">Welcome, I am Arunava Biswas</h1>
 
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
