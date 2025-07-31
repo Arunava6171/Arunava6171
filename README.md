@@ -1,11 +1,11 @@
 
-# 👋 Hi there, I'm Arunava Biswas!
+### 👋 Hi there, I'm Arunava Biswas!
 
-I'm a passionate and driven software developer based in West Bengal, India 🇮🇳. I specialize in building scalable software systems and diving deep into the foundations of Computer Science. My journey in tech is shaped by curiosity, hands-on learning, and the desire to collaborate with brilliant minds.
+I'm a passionate and driven software developer based in West Bengal, India. I specialize in building scalable software systems and diving deep into the foundations of Computer Science. My journey in tech is shaped by curiosity, hands-on learning, and the desire to collaborate with brilliant minds.
 
 ---
 
-## 🧠 Core Expertise
+### 🧠 Core Expertise
 
 - 💡 **Software Development**: Crafting clean, efficient, and maintainable code that powers reliable and high-performance applications.
 - 🔍 **Problem Solving**: Applying strong analytical skills and data structures to tackle complex challenges.
@@ -14,20 +14,12 @@ I'm a passionate and driven software developer based in West Bengal, India 🇮�
 
 ---
 
-## 💬 What Drives Me
+### 💬 What Drives Me
 
 - 🔍 **Curiosity**: Always exploring the "why" behind the "how" in systems and technology.
 - 🤝 **Collaboration**: Thriving in spaces where ideas evolve through shared knowledge and team synergy.
 - 🧭 **Growth Mindset**: Viewing every challenge as a stepping stone toward becoming better.
 - 🧑‍🏫 **Learning & Teaching**: Believing strongly in mutual growth through mentorship, discussion, and exploration.
-
----
-
-## 📚 Current Learning Path
-
-- ☁️ Cloud-native development & DevOps fundamentals
-- 🧠 Advanced ML techniques and model deployment
-- 🔐 Secure coding practices and scalable system design
 
 ---
 
