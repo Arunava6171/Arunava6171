@@ -1,5 +1,5 @@
 
-### I'm Arunava Biswas!
+### Hi There, I'm Arunava Biswas!
 
 I'm a passionate and driven software developer based in West Bengal, India. I specialize in building scalable software systems and diving deep into the foundations of Computer Science. My journey in tech is shaped by curiosity, hands-on learning, and the desire to collaborate with brilliant minds.
 
