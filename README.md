@@ -23,7 +23,6 @@ I'm a passionate and driven software developer based in West Bengal, India. I sp
 
 ---
 
-
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 I have recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy 
