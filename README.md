@@ -27,6 +27,7 @@ I'm a passionate and driven software developer based in West Bengal, India. I sp
 
 I'm always open to exchanging ideas, exploring new technologies, and building meaningful things. Reach out via [your-email@example.com] or follow my journey right here on GitHub.
 
+---
 
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
