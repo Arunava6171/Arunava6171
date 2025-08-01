@@ -5,28 +5,20 @@ I'm a passionate and driven software developer based in West Bengal, India. I sp
 
 ---
 
-### Core Expertise
+### My Interests
 
-- 💡 **Software Development**: Crafting clean, efficient, and maintainable code that powers reliable and high-performance applications.
-- 🔍 **Problem Solving**: Applying strong analytical skills and data structures to tackle complex challenges.
-- ⚙️ **Machine Learning Foundations**: Experimenting with algorithms, feature engineering, and data-driven models using Python.
-- 🧪 **Systems Programming & CS Concepts**: Deeply engaged in DBMS, Operating Systems, Computer Networks, and Object-Oriented Programming.
+- 💡 **Software Development**: Writing clean, efficient, and working code.
+- 🔍 **Problem Solving**: Applying strong analytical skills and problem solving to tackle complex questions.
+- ⚙️ **Machine Learning**: Working with algorithms, feature engineering, and data-driven models using Python.
+- 🧪 **CS Concepts**: Deeply engaged in DBMS, Operating Systems, Computer Networks, and Object-Oriented Programming.
 
----
-
-### What Drives Me
-
-- 🔍 **Curiosity**: Always exploring the "why" behind the "how" in systems and technology.
-- 🤝 **Collaboration**: Thriving in spaces where ideas evolve through shared knowledge and team synergy.
-- 🧭 **Growth Mindset**: Viewing every challenge as a stepping stone toward becoming better.
-- 🧑‍🏫 **Learning & Teaching**: Believing strongly in mutual growth through mentorship, discussion, and exploration.
 
 ---
 
 ### About Me
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 I have recently built a **Spam Mail Prediction System** using Python, ML & TF-IDF with 95% accuracy 
-- 💬 Ask me **DBMS, OS, CN, OOPs**
+- 💬 Subject Knowledge-**DBMS, OS, CN, OOPs**
 - 🏆 I like to provide solutions with good problem solving skills
 - 🧠 I'm always curious to learn and grow in a collaborative environment
 
