@@ -1,7 +1,6 @@
 
 ### Hi There, I'm Arunava Biswas!
 
-I am a passionate and driven software developer.
 
 ---
 
@@ -9,7 +8,7 @@ I am a passionate and driven software developer.
 - 👨‍💻 I’m passionate about building scalable and efficient software systems
 - 📈 I have recently built a **Spam Mail Prediction System** project using ML & TF-IDF with 95% accuracy 
 - 💬 Subject Knowledge-**DBMS, OS, CN, OOPs**
-- 🏆 I like to write code with good problem solving methodsenergy 
+- 🏆 I like to write code with good problem solving methods
 - 🧠 I'm always curious to learn and grow in a collaborative environment
 
 ---
