@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Arunava Biswas.
+###Hi, I'm Arunava Biswas.
 I'm a passionate Software Developer focused on building scalable and efficient software systems from the ground up.
 
 I recently put my passion for data and machine learning into practice by developing a Spam Mail Prediction System. Leveraging Python, ML, and TF-IDF, I engineered a model that achieved an impressive 95% prediction accuracy. This project sharpened my ability to deliver high-performance, real-world solutions.
