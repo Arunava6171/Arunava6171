@@ -17,7 +17,7 @@ During my college days I developed a **Spam Mail Prediction System**.
 
 ## 🛠️ Course Subjects
 
-My technical skill is built on core Computer Science concepts, ensuring a strong base for software development:
+My technical skill is built on core Computer Science concepts, ensuring a strong base for robust software development:
 
 * **DBMS** (Database Management Systems)
 * **OS** (Operating Systems)
