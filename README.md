@@ -10,7 +10,7 @@ I have an interest in **scalable and efficient software systems** from the begin
 
 During my college days I developed a **Spam Mail Prediction System**.
 
-* **The Problem:** Leveraging **Python, Machine Learning, and the TF-IDF vectorization technique**, I engineered a model designed for real-world application.
+* **The Problem:** Leveraging **Python, Machine Learning, and the TF-IDF vectorization technique**, I built a system to seperate spam and ham mails.
 * **The Solution:** The system achieved an impressive **95% prediction accuracy**, sharpening my ability to deliver high-performance, tangible solutions.
 
 ---
