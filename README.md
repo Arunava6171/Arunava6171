@@ -2,13 +2,13 @@
 
 ### 💻 Aspriring Software Engineer
 
-I am focused on building **scalable and efficient software systems** from the ground up. I like complex problems with clean, well-structured code and I'm always eager to collaborate and learn in a growth-oriented environment.
+I have an interest in **scalable and efficient software systems** from the beginning part. I like complex problems with clean, well-structured code and I'm always eager to collaborate and learn in a growth-oriented environment.
 
 ---
 
-## 📈 My Story & Key Project
+## 📈 My Key Project
 
-During my college days I developped a **Spam Mail Prediction System**.
+During my college days I developed a **Spam Mail Prediction System**.
 
 * **The Solution:** Leveraging **Python, Machine Learning, and the TF-IDF vectorization technique**, I engineered a model designed for real-world application.
 * **The Result:** The system achieved an impressive **95% prediction accuracy**, sharpening my ability to deliver high-performance, tangible solutions.
@@ -17,7 +17,7 @@ During my college days I developped a **Spam Mail Prediction System**.
 
 ## 🛠️ Course Subjects
 
-My technical expertise is built on core Computer Science concepts, ensuring a strong base for robust software development:
+My technical skill is built on core Computer Science concepts, ensuring a strong base for robust software development:
 
 * **DBMS** (Database Management Systems)
 * **OS** (Operating Systems)
@@ -26,11 +26,11 @@ My technical expertise is built on core Computer Science concepts, ensuring a st
 
 ---
 
-## 🚀 What I Bring
+## 🚀 What I Seek
 
 | Icon | Focus Area | Description |
 | :--- | :--- | :--- |
-| 👨‍💻 | **System Design** | Passionate about building scalable and efficient software systems. |
+| 👨‍💻 | **Aspire To Build** | Passionate about building scalable and efficient software systems. |
 | 🏆 | **Problem Solving** | I prioritize writing code with effective problem-solving methods. |
 | 🧠 | **Growth Mindset** | Always curious to learn and grow in a collaborative environment. |
 
