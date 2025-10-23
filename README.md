@@ -22,7 +22,7 @@ My technical skill is built on core Computer Science concepts, ensuring a strong
 * **DBMS** (Database Management Systems)
 * **OS** (Operating Systems)
 * **CN** (Computer Networks)
-* **OOPs** (Object-Oriented Programming)
+* **OOP** (Object-Oriented Programming)
 
 ---
 
