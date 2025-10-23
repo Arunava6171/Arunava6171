@@ -6,7 +6,7 @@ I have an interest in **scalable and efficient software systems** from the begin
 
 ---
 
-## 📈 My Key Project
+## 📈 My College Project
 
 During my college days I developed a **Spam Mail Prediction System**.
 
