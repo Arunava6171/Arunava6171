@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arunava Biswas!
 
-## 💻 Aspriring Software Engineer
+### 💻 Aspriring Software Engineer
 
 I have an interest in **scalable and efficient software systems** from the beginning part. I like to solve problems with clean, well-structured code and I'm always eager to collaborate and learn in a growth-oriented environment.
 
