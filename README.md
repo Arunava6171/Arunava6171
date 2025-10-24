@@ -2,7 +2,7 @@
 
 ### 💻 Aspriring Software Engineer
 
-I have an interest in building **scalable and efficient software systems** from the beginning. I like to solve large problems with clean, structured code and I'm always eager to share and learn in a growth-oriented environment.
+I am a CSE B.Tech Graduate with an interest in building **scalable and efficient software systems** from the beginning. I like to solve large problems with clean, structured code and I'm always eager to scontribute and learn in a growth-oriented environment.
 
 ---
 
@@ -26,7 +26,7 @@ My technical skill is built on core Computer Science concepts, ensuring a strong
 
 ---
 
-## 🚀 What I Seek
+## 🚀 What I Value
 
 | Icon | Focus Area | Description |
 | :--- | :--- | :--- |
