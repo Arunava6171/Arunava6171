@@ -2,7 +2,7 @@
 
 ### 💻 Aspriring Software Engineer
 
-I have an interest in building **scalable and efficient software systems** from the beginning. I like to solve large problems with clean, good-structured code and I'm always eager to share and learn in a growth-oriented environment.
+I have an interest in building **scalable and efficient software systems** from the beginning. I like to solve large problems with clean, structured code and I'm always eager to share and learn in a growth-oriented environment.
 
 ---
 
