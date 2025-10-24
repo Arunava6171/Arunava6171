@@ -26,11 +26,11 @@ My technical skill is built on core Computer Science concepts, ensuring a strong
 
 ---
 
-## 🚀 What I Value
+## 🚀 What I VBrin
 
 | Icon | Focus Area | Description |
 | :--- | :--- | :--- |
-| 👨‍💻 | **Aspire To Build** | Passionate about building scalable and efficient software systems. |
+| 👨‍💻 | **Build Code** | Passionate about building scalable and efficient software systems. |
 | 🏆 | **Problem Solving** | I prioritize writing code with effective problem-solving methods. |
 | 🧠 | **Growth Mindset** | Always curious to learn and grow in a collaborative environment. |
 
