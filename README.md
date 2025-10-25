@@ -6,17 +6,6 @@ I am a CSE B.Tech Graduate with an interest in building **scalable and efficient
 
 ---
 
-## 🛠️ Course Subjects
-
-My technical skill is built on core Computer Science concepts, ensuring a strong base for robust software development:
-
-* **DBMS** (Database Management Systems)
-* **OS** (Operating Systems)
-* **CN** (Computer Networks)
-* **OOPs** (Object-Oriented Programming)
-
----
-
 ## 🚀 What I Bring
 
 | Icon | Focus Area | Description |
