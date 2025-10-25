@@ -6,6 +6,28 @@ I have an interest in building **scalable and efficient software systems** from 
 
 ---
 
+
+## 📈 My List Of Projects
+
+During my college days, I built a **Spam Mail Detection System**.
+
+* **The Problem:** Leveraging **Python, Machine Learning, and the TF-IDF vectorization technique**, I built a system to separate spam and ham mails.
+* **The Solution:** The system achieved an impressive **95% prediction accuracy**, sharpening my ability to deliver high-performance, tangible solutions.
+
+---
+
+## 🛠️ Course Subjects
+
+My technical skill is built on core Computer Science concepts, ensuring a strong base for robust software development:
+
+* **DBMS** (Database Management Systems)
+* **OS** (Operating Systems)
+* **CN** (Computer Networks)
+* **OOPs** (Object-Oriented Programming)
+
+---
+
+
 ## 🚀 What I Bring
 
 | Icon | Focus Area | Description |
