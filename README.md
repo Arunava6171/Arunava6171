@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Engineer
 
-I am a CSE B.Tech Graduate with an interest in building **scalable and efficient software systems** from the beginning. I like solving large problems with clean, good-structured code and I'm always eager to help and learn in a growth-oriented environment.
+I have an interest in building **scalable and efficient software systems** from the beginning. I like solving large problems with clean, good-structured code and I'm always eager to help and learn in a growth-oriented environment.
 
 ---
 
