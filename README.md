@@ -8,7 +8,7 @@ I am a CSE B.Tech Graduate with an interest in building **scalable and efficient
 
 ## 📈 My List Of Projects
 
-During my college days, I built a **Spam Mail Detection System**.
+During my college days, I built a **Spam Mail Detection System** project to seperate spam and ham mails.
 
 * **The Problem:** Leveraging **Python, Machine Learning, and the TF-IDF vectorization technique**, I built a system to seperate spam and ham mails.
 * **The Solution:** The system achieved an impressive **95% prediction accuracy**, sharpening my ability to deliver high-performance, tangible solutions.
