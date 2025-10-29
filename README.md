@@ -32,7 +32,7 @@ My technical skill is built on core Computer Science concepts, ensuring a strong
 
 | Icon | Focus Area | Description |
 | :--- | :--- | :--- |
-| 👨‍💻 | **Build Code** | Passionate about building scalable and efficient software systems. |
+| 👨‍💻 | **Efficient Systems** | Passionate about building scalable and efficient software systems. |
 | 🏆 | **Problem Solving** | I prioritize writing code with effective problem-solving methods. |
 | 🧠 | **Growth Mindset** | Always curious to learn and grow in a collaborative environment. |
 
